@@ -123,4 +123,5 @@ var scratch = require('scratch-api');
       self.scratch.projects.comment(ProjID,self.comment)
     def Studio(self,StudioID):
       self.scratch.studios.send(StudioID,self.comment)
-scratch3api.Send('PikachuB2005','MyPassword').Profile('griffpatch','Hello!')
+
+      follow(griffpatch,f_account)
